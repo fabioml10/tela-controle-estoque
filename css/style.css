@@ -1,0 +1,63 @@
+h1 {
+  margin: 20px 0;
+}
+
+main {
+  margin-bottom: 50px;
+}
+
+footer {
+  /* position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100vw; */
+  padding: 48px 0 !important;
+}
+
+.is-fixed{
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100vw;
+}
+
+.form-border {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.is-dark-c {
+  background-color: #20211C !important;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.copy {
+  height: fit-content;
+  color: #bbb;
+}
+
+.made {
+  height: fit-content;
+  color: #bbb;
+}
+
+/*estoque*/
+.search {
+  width: 500px;
+  margin-bottom: 50px !important;
+}
+
+.qtd {
+  width: 100px !important;
+}
